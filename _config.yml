@@ -33,7 +33,7 @@ comments:
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
+  commitMessage          : "Nieuw bericht."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
