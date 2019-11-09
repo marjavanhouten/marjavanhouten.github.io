@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Visie: Kwaliteit beweegt, inspireert en motiveert!"
-permalink: /over/
+permalink: /visie/
 author_profile: true
 ---
 
