@@ -21,4 +21,4 @@ Wij benutten de tijd en energie van een ieder doelgericht en efficiënt. Zo nodi
 Verbeteren en vernieuwen is mensenwerk. Onze overtuiging en ervaring is dat mensen tot veel meer in staat zijn dan zijzelf of anderen denken. Wanneer het management mensen uitdaagt en in staat stelt daadwerkelijk mee te denken en mee te doen, komt er creativiteit vrij. Open communicatie is hierbij essentieel. We spelen in op motivatie en normen en waarden van medewerkers. En ook op weerstanden en hobbels onderweg.
 
 ### Kwaliteit gegarandeerd
-Ook in onze eigen werk staat kwaliteit voorop. Tussentijds stemmen wij met u af hoe het gaat. Na afloop van een opdracht evalueren wij altijd of u tevreden bent. Klachten? Laat het ons weten, dan zoeken we een passende oplossing. Zie ook de [algemene voorwaarden](/voorwaarden.pdf).
+Ook in onze eigen werk staat kwaliteit voorop. Tussentijds stemmen wij met u af hoe het gaat. Na afloop van een opdracht evalueren wij altijd of u tevreden bent. Klachten? Laat het ons weten, dan zoeken we een passende oplossing. Zie ook de [algemene voorwaarden](/files/voorwaarden2014.pdf).
