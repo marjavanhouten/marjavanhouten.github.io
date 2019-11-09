@@ -17,4 +17,4 @@ Van Houten Consult werkt voor professionele dienstverleners in de gezondheidszor
 
 ### Contact
 
-Wil u weten of Van Houten Consult iets voor u kan betekenen? Mail uw vraag naar mvanhouten@vanhoutenconsult.nl of bel rechtstreeks met Marja van Houten: 06-54993565.
+Wilt u weten of Van Houten Consult iets voor u kan betekenen? Mail uw vraag naar [mvanhouten@vanhoutenconsult.nl](mailto:mvanhouten@vanhoutenconsult.nl) of bel rechtstreeks met Marja van Houten: 06-54993565.
