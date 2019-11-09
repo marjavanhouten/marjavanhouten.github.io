@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Ir Marja van Houten (1955) heeft een achtergrond in zorg, innovatie en communicatie (Universiteit Wageningen). 
+Ir. Marja van Houten (1955) heeft een achtergrond in zorg, innovatie en communicatie (Universiteit Wageningen). 
 
 Gedurende haar loopbaan heeft zij diverse aanvullende meerjarige opleidingen gevolgd, zoals een organisatieadviesopleiding gericht op veranderkunde (www.SIOO.nl), een driejarige coaching opleiding (www.Phoenixopleidingen.nl ), een managementopleiding (voormalig ODRP) en trainingen op vlak van project- en kwaliteitsmanagement. Zie ook haar linked in profiel. <doorklik>
 
