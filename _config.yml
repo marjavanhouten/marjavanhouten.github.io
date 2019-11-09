@@ -9,7 +9,7 @@
 locale                   : "nl-NL"
 title                    : "Van Houten Consult"
 title_separator          : "-"
-name                     : &name "Marja van Houten
+name                     : &name "Marja van Houten"
 description              : &description "personal description"
 url                      : https://marjavanhouten.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
