@@ -9,7 +9,7 @@ author_profile: true
 
 Ir. Marja van Houten (1955) heeft een achtergrond in zorg, innovatie en communicatie (Universiteit Wageningen). 
 
-Gedurende haar loopbaan heeft zij diverse aanvullende meerjarige opleidingen gevolgd, zoals een organisatieadviesopleiding gericht op veranderkunde (www.SIOO.nl), een driejarige coaching opleiding (www.Phoenixopleidingen.nl ), een managementopleiding (voormalig ODRP) en trainingen op vlak van project- en kwaliteitsmanagement. Zie ook haar linked in profiel. <doorklik>
+Gedurende haar loopbaan heeft zij diverse aanvullende meerjarige opleidingen gevolgd, zoals een organisatieadviesopleiding gericht op veranderkunde (www.SIOO.nl), een driejarige coaching opleiding (www.Phoenixopleidingen.nl ), een managementopleiding (voormalig ODRP) en trainingen op vlak van project- en kwaliteitsmanagement. Zie ook haar [LinkedIn](https://www.linkedin.com/in/marja-van-houten-78244611/)
 
 Na vijftien jaar werkzaam te zijn geweest als (project-)manager in de sectoren overheid, welzijn en zorg, werkt zij vanaf 1997 vanuit haar eigen bedrijf als senior adviseur en trainer op het brede terrein van organisatieontwikkeling, innovatie en kwaliteitsmanagement in de professionele dienstverlening. 
 
