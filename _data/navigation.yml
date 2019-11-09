@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Over"
+    url: /over/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Visie"
+    url: /visie/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Werkwijze"
+    url: /werkwijze/    
     
-  - title: "Portfolio"
+  - title: "Netwerk"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact"
+    url: /
